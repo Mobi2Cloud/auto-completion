@@ -4,7 +4,7 @@ auto-completion
 auto completion API based on Node.js and Thrift service
 
 
-## How to build and run it:
+### How to build and run it:
 
 * under server\server
 
