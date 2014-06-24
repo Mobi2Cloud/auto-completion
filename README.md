@@ -1,7 +1,7 @@
 auto-completion
 ===============
 
-auto completion API based on Node.js and Thrift service
+Use Node.js and Thrift service to implement an auto-completion api
 
 
 ### How to build and run it:
